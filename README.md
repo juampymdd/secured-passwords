@@ -5,6 +5,8 @@
 
 This is a secured password generator. It will generate a password with the length you want and with the characters you want. You can choose between lowercase, uppercase, numbers and special characters. You can also choose to copy the password to your clipboard.
 
+Try it: ***[demo](https://mad-secpwd.netlify.app/)***
+
 ## Table of Contents
 
 * [Prerequisites](#Prerequisites)
