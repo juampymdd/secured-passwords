@@ -27,7 +27,7 @@ function App() {
   return (
     <div className='container'>
       <Logo>
-        <img src={logo} alt="logo de secured passwords" />
+        <img src={logo} width={200} height={200}alt="logo de secured passwords" />
       </Logo>
       <form onSubmit={onSubmit}>
         <Fila>
