@@ -6,9 +6,23 @@ This is a secured password generator. It will generate a password with the lengt
 
 ## Table of Contents
 
+* [Prerequisites](#Prerequisites)
 * [Installation](#installation)
 * [Run](#Run)
 
+
+## Prerequisites
+1. You will need to have installed [Node.js](https://nodejs.org/en/) and [Yarn](https://yarnpkg.com/).
+
+2. You will need to have installed [Git](https://git-scm.com/).
+
+3. You will need to have installed [Visual Studio Code](https://code.visualstudio.com/).
+
+4. You will need to handle vitejs. You can install it with the following command:
+
+    ```bash
+    yarn global add vite
+    ``` 
 ## Installation
 
 1. To install this application, you will need to clone the repository on your terminal.
