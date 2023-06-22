@@ -1,4 +1,5 @@
 # Secured passwords generator
+![imagen](./src/assets/logowhite.svg)
 
 ## Description
 
