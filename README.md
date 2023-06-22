@@ -1,6 +1,6 @@
 # Secured passwords generator
 ![imagen](./src/assets/logowhite.svg)
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/75753c2f-082c-4c2e-8841-bb8b1feaa464/deploy-status)](https://app.netlify.com/sites/mad-secpwd/deploys)
 ## Description
 
 This is a secured password generator. It will generate a password with the length you want and with the characters you want. You can choose between lowercase, uppercase, numbers and special characters. You can also choose to copy the password to your clipboard.
