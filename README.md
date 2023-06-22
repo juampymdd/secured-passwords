@@ -10,6 +10,7 @@ This is a secured password generator. It will generate a password with the lengt
 * [Prerequisites](#Prerequisites)
 * [Installation](#installation)
 * [Run](#Run)
+* [Credits](#Credits)
 
 
 ## Prerequisites
@@ -45,3 +46,6 @@ This is a secured password generator. It will generate a password with the lengt
     ```
 
 
+## Credits
+
+* [Falcon Masters](https://www.youtube.com/watch?v=6auQ8zu6_lw&t=4440s&ab_channel=FalconMasters)
